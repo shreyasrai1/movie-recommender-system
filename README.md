@@ -48,4 +48,4 @@ jupyter notebook
 ```
 ## 📄 **License**
 
-This project is open-source under the MIT License. see the [LICENSE] (https://github.com/shreyasrai1/movie-recommender-system/blob/main/MIT%20License.txt) file for details.
+This project is open-source under the MIT License. see the [MIT License](https://github.com/shreyasrai1/movie-recommender-system/blob/main/MIT%20License.txt) file for details.
